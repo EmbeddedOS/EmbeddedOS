@@ -2,9 +2,30 @@
 
 ![LaVa264](https://komarev.com/ghpvc/?username=LaVa264)
 
-**Things I code**
+**Things I can do:**
 
-![Static Badge](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-C-45b8d8?style=flat-square&logo=c&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-C++-45b8d8?style=flat-square&logo=cplusplusbuilder&logoColor=white&color=8DD6F9)
+![Static Badge](https://img.shields.io/badge/-Python-45b8d8?style=flat-square&logo=python&logoColor=white&color=2496ED)
+![Static Badge](https://img.shields.io/badge/-x86_Assembly-45b8d8?style=flat-square&logo=amazonecs&logoColor=white&color=2088FF)
+![Static Badge](https://img.shields.io/badge/-ARM_Assembly-45b8d8?style=flat-square&logo=amazonecs&logoColor=white&color=4285F4)
+![Static Badge](https://img.shields.io/badge/-Embedded_Linux-45b8d8?style=flat-square&logo=amazonecs&logoColor=white&color=3178C6)
+![Static Badge](https://img.shields.io/badge/-Embedded_Firmware_MCU-45b8d8?style=flat-square&logo=amazonecs&logoColor=white&color=4000BF)
+![Static Badge](https://img.shields.io/badge/-Linux_Kernel-45b8d8?style=flat-square&logo=amazonecs&logoColor=white&color=4000BF)
+![Static Badge](https://img.shields.io/badge/-Networking-45b8d8?style=flat-square&logo=amazonecs&logoColor=white&color=4000BF)
+![Static Badge](https://img.shields.io/badge/-TCP_IP-45b8d8?style=flat-square&logo=amazonecs&logoColor=white&color=4000BF)
+![Static Badge](https://img.shields.io/badge/-WiFi_BLE-45b8d8?style=flat-square&logo=amazonecs&logoColor=white&color=4000BF)
+![Static Badge](https://img.shields.io/badge/-Network_Security-45b8d8?style=flat-square&logo=amazonecs&logoColor=white&color=4000BF)
+![Static Badge](https://img.shields.io/badge/-Bootloader-45b8d8?style=flat-square&logo=amazonecs&logoColor=white&color=4000BF)
+![Static Badge](https://img.shields.io/badge/-BIOS_UEFI-45b8d8?style=flat-square&logo=amazonecs&logoColor=white&color=4000BF)
+![Static Badge](https://img.shields.io/badge/-Uboot-45b8d8?style=flat-square&logo=amazonecs&logoColor=white&color=4000BF)
+![Static Badge](https://img.shields.io/badge/-Yocto-45b8d8?style=flat-square&logo=amazonecs&logoColor=white&color=4000BF)
+![Static Badge](https://img.shields.io/badge/-FreeRTOS-45b8d8?style=flat-square&logo=amazonecs&logoColor=white&color=4000BF)
+![Static Badge](https://img.shields.io/badge/-x86_64_Arch-45b8d8?style=flat-square&logo=amazonecs&logoColor=white&color=4000BF)
+![Static Badge](https://img.shields.io/badge/-ARM_Arch-45b8d8?style=flat-square&logo=amazonecs&logoColor=white&color=4000BF)
+![Static Badge](https://img.shields.io/badge/-Docker-45b8d8?style=flat-square&logo=amazonecs&logoColor=white&color=4000BF)
+![Static Badge](https://img.shields.io/badge/-Load_balancer-45b8d8?style=flat-square&logo=amazonecs&logoColor=white&color=4000BF)
+![Static Badge](https://img.shields.io/badge/-Web_Application_Firewall-45b8d8?style=flat-square&logo=amazonecs&logoColor=white&color=4000BF)
 
 <h3>Things I code with</h3>
 <p>
