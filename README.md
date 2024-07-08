@@ -7,8 +7,8 @@
 ![Static Badge](https://img.shields.io/badge/-C-45b8d8?style=flat-square&logo=c&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-C++-45b8d8?style=flat-square&logo=cplusplusbuilder&logoColor=white&color=8DD6F9)
 ![Static Badge](https://img.shields.io/badge/-Python-45b8d8?style=flat-square&logo=python&logoColor=white&color=2496ED)
-![Static Badge](https://img.shields.io/badge/-x86_Assembly-45b8d8?style=flat-square&logo=amazonecs&logoColor=white&color=2088FF)
-![Static Badge](https://img.shields.io/badge/-ARM_Assembly-45b8d8?style=flat-square&logo=arm&logoColor=white&color=4285F4)
+![Static Badge](https://img.shields.io/badge/-Assembly-45b8d8?style=flat-square&logo=amazonecs&logoColor=white&color=2088FF)
+![Static Badge](https://img.shields.io/badge/-Embedded_OS-45b8d8?style=flat-square&logo=arm&logoColor=white&color=4285F4)
 ![Static Badge](https://img.shields.io/badge/-Embedded_Linux-45b8d8?style=flat-square&logo=linux&logoColor=white&color=3178C6)
 ![Static Badge](https://img.shields.io/badge/-Embedded_Firmware_MCU-45b8d8?style=flat-square&logo=stmicroelectronics&logoColor=white&color=4000BF)
 ![Static Badge](https://img.shields.io/badge/-Linux_Kernel-45b8d8?style=flat-square&logo=linux&logoColor=white&color=311C87)
@@ -25,19 +25,16 @@
 ![Static Badge](https://img.shields.io/badge/-ARM_Arch-45b8d8?style=flat-square&logo=amazonecs&logoColor=white&color=FB542B)
 ![Static Badge](https://img.shields.io/badge/-Docker-45b8d8?style=flat-square&logo=amazonecs&logoColor=white&color=EC4A3F)
 ![Static Badge](https://img.shields.io/badge/-Load_balancer-45b8d8?style=flat-square&logo=amazonecs&logoColor=white&color=F9A03C)
-![Static Badge](https://img.shields.io/badge/-Web_Application_Firewall-45b8d8?style=flat-square&logo=amazonecs&logoColor=white&color=F7B93E)
+![Static Badge](https://img.shields.io/badge/-Firewall-45b8d8?style=flat-square&logo=amazonecs&logoColor=white&color=F7B93E)
 ![Static Badge](https://img.shields.io/badge/-Device_Driver_Model-45b8d8?style=flat-square&logo=amazonecs&logoColor=white&color=47A248)
+![Static Badge](https://img.shields.io/badge/-Debugger-45b8d8?style=flat-square&logo=amazonecs&logoColor=white&color=green)
 
-<!--END_SECTION:waka-->
-
-💬 Let's talk about Graphics programming, Ray Tracing, Game Dev, Programming Languages, Functional Programming, C++, Rust, C, OCaml, Elm, and Typescript. Always want to chat!
-
-
-for freelance work? do reach, [email](mailto:abhishknads.work@gmail.com) :)
+💬 Let's talk about OS, C/C++, Linux, Networking. Always want to chat!
 
 - 📫 How to reach me: **congnt264@gmail.com**
 - 🎬 My Youtube channel: **https://www.youtube.com/@LaVaEmbedded**
 - 📚 My blogs: **https://embedded.github.io**
+- ☎️ My Phone number: **+84347652264**
 
 <!--
 **LaVa264/LaVa264** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
