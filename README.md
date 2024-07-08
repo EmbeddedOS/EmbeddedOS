@@ -33,7 +33,7 @@
 
 - 📫 How to reach me: **congnt264@gmail.com**
 - 🎬 My Youtube channel: **https://www.youtube.com/@EmbeddedOS**
-- 📚 My blogs: **https://embedded.github.io**
+- 📚 My blogs: **https://embeddedos.github.io**
 - ☎️ My Phone number: **+84347652264**
 
 <!--
