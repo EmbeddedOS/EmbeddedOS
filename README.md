@@ -32,7 +32,7 @@
 💬 Let's talk about Operating System, C/C++, Linux, Kernel, Networking. Always want to chat!
 
 - 📫 How to reach me: **congnt264@gmail.com**
-- 🎬 My Youtube channel: **https://www.youtube.com/@LaVaEmbedded**
+- 🎬 My Youtube channel: **https://www.youtube.com/@EmbeddedOS**
 - 📚 My blogs: **https://embedded.github.io**
 - ☎️ My Phone number: **+84347652264**
 
