@@ -29,7 +29,7 @@
 ![Static Badge](https://img.shields.io/badge/-Device_Driver_Model-45b8d8?style=flat-square&logo=modrinth&logoColor=white&color=47A248)
 ![Static Badge](https://img.shields.io/badge/-Debugger-45b8d8?style=flat-square&logo=quicklook&logoColor=white&color=green)
 
-💬 Let's talk about Operating System, C/C++, Linux, Kernel, Networking, Freelance jobs. Always want to chat :sunglasses: 
+💬 Let's talk about Operating System, C/C++, Linux, Kernel, Networking, interesting jobs. Always want to chat :sunglasses: 
 
 - 📫 How to reach me: **congnt264@gmail.com**
 - 🎬 My Youtube channel: **https://www.youtube.com/@EmbeddedOS**
