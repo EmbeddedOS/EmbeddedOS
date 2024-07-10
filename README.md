@@ -10,7 +10,7 @@
 ![Static Badge](https://img.shields.io/badge/-Assembly-45b8d8?style=flat-square&logo=esphome&logoColor=white&color=2088FF)
 ![Static Badge](https://img.shields.io/badge/-Embedded_OS-45b8d8?style=flat-square&logo=educative&logoColor=white&color=4285F4)
 ![Static Badge](https://img.shields.io/badge/-Embedded_Linux-45b8d8?style=flat-square&logo=linux&logoColor=white&color=3178C6)
-![Static Badge](https://img.shields.io/badge/-Embedded_Firmware_MCU-45b8d8?style=flat-square&logo=amazonec2&logoColor=white&color=4000BF)
+![Static Badge](https://img.shields.io/badge/-Firmware_MCU-45b8d8?style=flat-square&logo=amazonec2&logoColor=white&color=4000BF)
 ![Static Badge](https://img.shields.io/badge/-Linux_Kernel-45b8d8?style=flat-square&logo=linux&logoColor=white&color=311C87)
 ![Static Badge](https://img.shields.io/badge/-Networking-45b8d8?style=flat-square&logo=circuitverse&logoColor=white&color=430098)
 ![Static Badge](https://img.shields.io/badge/-TCP_IP-45b8d8?style=flat-square&logo=overcast&logoColor=white&color=B7178C)
@@ -28,6 +28,8 @@
 ![Static Badge](https://img.shields.io/badge/-Firewall-45b8d8?style=flat-square&logo=springsecurity&logoColor=white&color=F7B93E)
 ![Static Badge](https://img.shields.io/badge/-Device_Driver_Model-45b8d8?style=flat-square&logo=modrinth&logoColor=white&color=47A248)
 ![Static Badge](https://img.shields.io/badge/-Debugger-45b8d8?style=flat-square&logo=quicklook&logoColor=white&color=green)
+![Static Badge](https://img.shields.io/badge/-QEMU-45b8d8?style=flat-square&logo=quicklook&logoColor=white&color=98eb34)
+![Static Badge](https://img.shields.io/badge/-Virtualization-45b8d8?style=flat-square&logo=quicklook&logoColor=white&color=c9eb34)
 
 💬 Let's talk about Operating System, C/C++, Linux, Kernel, Networking, interesting jobs. Always want to chat :sunglasses: 
 
