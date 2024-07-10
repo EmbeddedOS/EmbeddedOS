@@ -28,8 +28,8 @@
 ![Static Badge](https://img.shields.io/badge/-Firewall-45b8d8?style=flat-square&logo=springsecurity&logoColor=white&color=F7B93E)
 ![Static Badge](https://img.shields.io/badge/-Device_Driver_Model-45b8d8?style=flat-square&logo=modrinth&logoColor=white&color=47A248)
 ![Static Badge](https://img.shields.io/badge/-Debugger-45b8d8?style=flat-square&logo=quicklook&logoColor=white&color=green)
-![Static Badge](https://img.shields.io/badge/-QEMU-45b8d8?style=flat-square&logo=quicklook&logoColor=white&color=98eb34)
-![Static Badge](https://img.shields.io/badge/-Virtualization-45b8d8?style=flat-square&logo=quicklook&logoColor=white&color=c9eb34)
+![Static Badge](https://img.shields.io/badge/-QEMU-45b8d8?style=flat-square&logo=qemu&logoColor=white&color=98eb34)
+![Static Badge](https://img.shields.io/badge/-Virtualization-45b8d8?style=flat-square&logo=steelseries&logoColor=white&color=c9eb34)
 
 💬 Let's talk about Operating System, C/C++, Linux, Kernel, Networking, interesting jobs. Always want to chat :sunglasses: 
 
