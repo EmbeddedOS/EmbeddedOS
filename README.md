@@ -36,8 +36,8 @@
 - 📫 How to reach me: **congnt264@gmail.com**
 - 📚 My Blogs: **https://embeddedos.github.io**
 - 🎬 My Youtube channel: **https://www.youtube.com/@EmbeddedOS**
-- 😄 Connect me on Linkedin: **https://www.linkedin.com/in/congnt264**
-- ☎️ My phone number: **+84347652264**
+- 🔎 Connect me on Linkedin: **https://www.linkedin.com/in/congnt264**
+- ☎️ Contact to me: **+84347652264**
 
 <!--
 **LaVa264/LaVa264** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
