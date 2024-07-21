@@ -34,7 +34,7 @@
 💬 Let's talk about  C/C++, Operating System, Networking, interesting Jobs. Always want to chat :sunglasses: 
 
 - 📫 How to reach me: **congnt264@gmail.com**
-- 📚 My Blogs: **https://embeddedos.github.io**
+- 📚 My blogs: **https://embeddedos.github.io**
 - 🎬 My Youtube channel: **https://www.youtube.com/@EmbeddedOS**
 - 🔎 Connect me on Linkedin: **https://www.linkedin.com/in/congnt264**
 - ☎️ Contact to me: **+84347652264**
