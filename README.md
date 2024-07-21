@@ -31,13 +31,13 @@
 ![Static Badge](https://img.shields.io/badge/-QEMU-45b8d8?style=flat-square&logo=qemu&logoColor=white&color=98eb34)
 ![Static Badge](https://img.shields.io/badge/-Virtualization-45b8d8?style=flat-square&logo=steelseries&logoColor=white&color=c9eb34)
 
-💬 Let's talk about Operating System, C/C++, Linux, Kernel, Networking, interesting jobs. Always want to chat :sunglasses: 
+💬 Let's talk about  C/C++, Operating System, Networking, interesting Jobs. Always want to chat :sunglasses: 
 
 - 📫 How to reach me: **congnt264@gmail.com**
+- 📚 My Blogs: **https://embeddedos.github.io**
 - 🎬 My Youtube channel: **https://www.youtube.com/@EmbeddedOS**
-- 📚 My blogs: **https://embeddedos.github.io**
 - 😄 Connect me on Linkedin: **https://www.linkedin.com/in/congnt264**
-- ☎️ My Phone number: **+84347652264**
+- ☎️ My phone number: **+84347652264**
 
 <!--
 **LaVa264/LaVa264** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
