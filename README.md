@@ -39,6 +39,14 @@
 - 🔎 Connect me on Linkedin: **https://www.linkedin.com/in/congnt264**
 - ☎️ Contact to me: **+84347652264**
 
+Notable Projects:
+
+- An OS based on x64 architecture: https://github.com/EmbeddedOS/x86-64-OperatingSystem
+- Bare metal boot code & drivers for ARM cortex-M SoC: https://github.com/EmbeddedOS/ARM-Cortex-M-BareMetal
+- A bootloader based on BIOS Legacy: https://github.com/EmbeddedOS/bios-bootloader
+- A bootloader based on GNU-EFI framework: https://github.com/EmbeddedOS/uefi-bootloader
+- Emulate custom ARM cortex-M SoC with QEMU framework: https://github.com/EmbeddedOS/qemu_stm32f407_soc
+
 <!--
 **LaVa264/LaVa264** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
