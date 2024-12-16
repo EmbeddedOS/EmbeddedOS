@@ -39,7 +39,7 @@
 - 🔎 Connect me on Linkedin: **https://www.linkedin.com/in/congnt264**
 - ☎️ Contact to me: **+84347652264**
 
-Notable Projects:
+:octocat: Notable Projects:
 
 - 🔍 An OS based on x64 architecture: https://github.com/EmbeddedOS/x86-64-OperatingSystem
 - 🔍 Bare metal boot code & drivers for ARM cortex-M SoC: https://github.com/EmbeddedOS/ARM-Cortex-M-BareMetal
