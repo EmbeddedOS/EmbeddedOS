@@ -42,6 +42,7 @@
 :octocat: Notable Projects:
 
 - 🔍 An OS based on x64 architecture: https://github.com/EmbeddedOS/x86-64-OperatingSystem
+- 🔍 Bare meta boot code & system calls for Aarch64: https://github.com/EmbeddedOS/aarch64_boot_code
 - 🔍 Bare metal boot code & drivers for ARM cortex-M SoC: https://github.com/EmbeddedOS/ARM-Cortex-M-BareMetal
 - 🔍 A bootloader based on BIOS Legacy: https://github.com/EmbeddedOS/bios-bootloader
 - 🔍 A bootloader based on GNU-EFI framework: https://github.com/EmbeddedOS/uefi-bootloader
